@@ -54,17 +54,5 @@ The main objective of this project was not to implement every rule of chess (lik
 - Move history and tracking
 - Game reset option
 - Better visual design for the board
-- Basic AI to play against the computer
 
 ---
-
-## 🧑‍💻 Author
-
-**Máximo** – Full Stack Developer  
-📫 Contact: *(add your email or LinkedIn if you’d like)*
-
----
-
-## 📝 License
-
-This project is open for educational and personal use.
