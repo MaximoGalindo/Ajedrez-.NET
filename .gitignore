@@ -1,0 +1,68 @@
+## Archivos de usuario de Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Archivos de configuración local
+.vs/
+*.dbmdl
+*.bak
+*.backup
+*.log
+
+## Archivos generados por el compilador
+bin/
+obj/
+[Bb]uild/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.zip
+*.msi
+*.appx
+*.appxbundle
+
+## Paquetes de NuGet
+packages/
+*.nupkg
+*.snupkg
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+
+## Archivos de publicación
+publish/
+*.publish.xml
+
+## Archivos de Test y Resultados
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+## Archivos de configuración para Rider/ReSharper/etc.
+.idea/
+*.DotSettings.user
+
+## Archivos temporales del sistema
+*.tmp
+*.temp
+*.~*
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+## Archivos de respaldo de VSCode (si usás VSCode también)
+.vscode/
+.history/
+
+## Otros
+*.vspscc
+*.vssscc
+*.ncrunch*
+_ReSharper*/
