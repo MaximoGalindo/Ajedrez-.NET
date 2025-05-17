@@ -1,8 +1,8 @@
 namespace Ajedrez
 {
-    public partial class Form1 : Form
+    public partial class ChessGame : Form
     {
-        public Form1()
+        public ChessGame()
         {
             InitializeComponent();
         }

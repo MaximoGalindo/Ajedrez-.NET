@@ -5,7 +5,7 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement.Window;
 
 namespace Ajedrez
 {
-    partial class Form1
+    partial class ChessGame
     {
         /// <summary>
         ///  Required designer variable.
